@@ -14,3 +14,5 @@ This project demonstrates a responsive image gallery created using HTML and CSS.
 - **HTML**: To structure the content.
 - **CSS**: For styling and responsive layout, including custom fonts and box shadows.
 
+PREVIEW
+![Screenshot 2025-01-03 200459](https://github.com/user-attachments/assets/9b70f6cc-f9e6-4cb4-a3ba-6936177f4450)
